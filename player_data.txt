@@ -1,0 +1,19 @@
+Kylian Mbappé, Real Madrid, Paris Saint-Germain, France
+{"name": "Kylian Mbappé", "newClub": "Real Madrid", "oldClub":"Paris Saint-Germain", "country":"France"}
+
+Niclas Füllkrug, West Ham United, Borussia Dortmund , Germany
+{"name": "Niclas Füllkrug", "newClub": "West Ham United", "oldClub":"Borussia Dortmund", "country":"Germany"}
+	
+Dani Olmo, Barcelona, RB Leipzig, Spain
+{"name": "Dani Olmo", "newClub": "Barcelona", "oldClub":"RB Leipzig", "country":"Spain"}
+
+Robin Le Normand, Atlético Madrid, Real Sociedad, Spain
+{"name": "Robin Le Normand", "newClub": "Atlético Madrid", "oldClub":"Real Sociedad", "country":"Spain"}
+
+Saúl Ñíguez, Sevilla, Atlético Madrid, Spain
+{"name": "Saúl Ñíguez", "newClub": "Sevilla", "oldClub":"Atlético Madrid", "country":"Spain"}
+
+Donny van de Beek, Girona, Manchester United, Netherlands
+{"name": "Donny van de Beek", "newClub": "Girona", "oldClub":"Manchester United", "country":"Netherlands"}
+
+
